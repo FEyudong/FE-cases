@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/FlymeMiui/FE-cases/issues"
   },
-  "homepage": "https://github.com/FlymeMiui/FE-cases#readme"
+  "homepage": "https://github.com/FlymeMiui/FE-cases#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
